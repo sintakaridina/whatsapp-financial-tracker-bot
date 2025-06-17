@@ -1,0 +1,13 @@
+2025/06/17-02:26:19.765 1e14 Reusing MANIFEST /project/sandbox/user-workspace/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/17-02:26:19.765 1e14 Recovering log #170
+2025/06/17-02:26:19.791 1e14 Reusing old log /project/sandbox/user-workspace/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000170.log 
+2025/06/17-02:26:21.141 1e35 Level-0 table #175: started
+2025/06/17-02:26:21.155 1e35 Level-0 table #175: 341109 bytes OK
+2025/06/17-02:26:21.177 1e35 Delete type=0 #170
+2025/06/17-02:26:21.177 1e35 Manual compaction at level-0 from '\x00D\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00E\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/17-02:26:22.748 1e18 Compacting 1@1 + 1@2 files
+2025/06/17-02:26:22.925 1e18 Generated table #176@1: 45492 keys, 1706397 bytes
+2025/06/17-02:26:22.925 1e18 Compacted 1@1 + 1@2 files => 1706397 bytes
+2025/06/17-02:26:22.951 1e18 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/17-02:26:22.951 1e18 Delete type=2 #172
+2025/06/17-02:26:22.951 1e18 Delete type=2 #175
